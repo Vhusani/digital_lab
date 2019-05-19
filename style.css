@@ -465,7 +465,7 @@ position: relative;
         opacity: 1; 
   } 
   .gallery .item:nth-of-type(1){
-    background-image: url("assets/10.JPG");
+    background-image: url("assets/10.jpg");
     background-position-x: right;
     background-size: cover;
 }
@@ -1135,49 +1135,49 @@ div.contain{
 }
 
 .img1 {
-  background: linear-gradient(rgba(0, 0, 0, 0.60), rgba(0, 0, 0, 0.60)), url(assets/8.PNG);
+  background: linear-gradient(rgba(0, 0, 0, 0.60), rgba(0, 0, 0, 0.60)), url(assets/8.png);
   background-size: cover; 
 }
 
 
 .img2 {
-  background: linear-gradient(rgba(0, 0, 0, 0.60), rgba(0, 0, 0, 0.60)), url(assets/7.PNG);
+  background: linear-gradient(rgba(0, 0, 0, 0.60), rgba(0, 0, 0, 0.60)), url(assets/7.png);
   background-size: cover; 
 }
 
 
 .img3 {
-  background: linear-gradient(rgba(0, 0, 0, 0.60), rgba(0, 0, 0, 0.60)), url(assets/6.PNG);
+  background: linear-gradient(rgba(0, 0, 0, 0.60), rgba(0, 0, 0, 0.60)), url(assets/6.png);
   background-size: cover; 
 }
 
 
 .img4 {
-  background: linear-gradient(rgba(0, 0, 0, 0.60), rgba(0, 0, 0, 0.60)), url(assets/5.PNG);
+  background: linear-gradient(rgba(0, 0, 0, 0.60), rgba(0, 0, 0, 0.60)), url(assets/5.png);
   background-size: cover; 
 }
 
 
 .img5 {
-  background: linear-gradient(rgba(0, 0, 0, 0.60), rgba(0, 0, 0, 0.60)), url(assets/4.PNG);
+  background: linear-gradient(rgba(0, 0, 0, 0.60), rgba(0, 0, 0, 0.60)), url(assets/4.png);
   background-size: cover; 
 }
 
 
 .img6 {
-  background: linear-gradient(rgba(0, 0, 0, 0.60), rgba(0, 0, 0, 0.60)), url(assets/3.PNG);
+  background: linear-gradient(rgba(0, 0, 0, 0.60), rgba(0, 0, 0, 0.60)), url(assets/3.png);
   background-size: cover; 
 }
 
 
 .img7 {
-  background: linear-gradient(rgba(0, 0, 0, 0.60), rgba(0, 0, 0, 0.60)), url(assets/2.PNG);
+  background: linear-gradient(rgba(0, 0, 0, 0.60), rgba(0, 0, 0, 0.60)), url(assets/2.png);
   background-size: cover; 
 }
 
 
 .img8 {
-  background: linear-gradient(rgba(0, 0, 0, 0.60), rgba(0, 0, 0, 0.60)), url(assets/1.PNG);
+  background: linear-gradient(rgba(0, 0, 0, 0.60), rgba(0, 0, 0, 0.60)), url(assets/1.png);
   background-size: cover; 
 }
 .parallax-mask {
@@ -1665,7 +1665,7 @@ a {
 }
 
 .third{
-       background: linear-gradient(#2c2c2c6b, #2c2c2c6b), url(assets/img/4.Jpg);
+       background: linear-gradient(#2c2c2c6b, #2c2c2c6b), url(assets/img/4.jpg);
            clear: both;
 
             background-size: cover;
@@ -2495,7 +2495,7 @@ input{
 }
 
 .img-2{
-      background-image: url("assets/blog/1.PNG");
+      background-image: url("assets/blog/1.png");
 }
 
 
